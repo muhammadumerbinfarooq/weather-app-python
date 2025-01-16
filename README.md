@@ -17,7 +17,7 @@ A simple Python application that fetches and displays the current weather for a 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/muhammadumermemon/weather-app-python.git
+    git clone https://github.com/muhammadumerbinfarooq/weather-app-python.git
     ```
 2. Navigate to the project directory:
     ```bash
